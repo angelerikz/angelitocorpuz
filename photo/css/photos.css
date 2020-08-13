@@ -19,3 +19,20 @@ p{
 	width: 30%;
 	padding-bottom: 20px;
 }
+
+footer{
+	padding: 40px 20px;
+	background-color: rgba(0 ,0,0,.25);
+	margin-top: 20px;
+}
+
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	
+	display: inline-block;
+	margin: 0 5px;
+}
